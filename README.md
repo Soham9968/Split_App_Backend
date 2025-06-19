@@ -1,7 +1,7 @@
 # Split_App_Backend
 Split App Backend is a RESTful API-based expense sharing system developed using FastAPI and MongoDB Atlas. It allows users to log shared expenses, calculate individual balances, and generate minimal settlements — making it easier to track who owes whom. 
 
-# Split App Backend – DevDynamics Assignment
+# Split App Backend 
 
 This backend project is built using **FastAPI** and **MongoDB Atlas** to help split expenses among users, calculate balances, and simplify settlements. It includes a Postman collection and full API documentation.
 
